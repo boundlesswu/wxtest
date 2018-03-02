@@ -1,0 +1,16 @@
+<xml>
+    <!-- 微信appId -->
+    <appId>wxe39b786c0a3d592f</appId>
+    <!-- 微信secret -->
+    <secret>3d34a4d8729850fa96a95e75dfb5deb2</secret>
+    <!-- 商户号 mch_id -->
+    <partnerId>123456789</partnerId>
+    <!-- 商户Key -->
+    <partnerKey>123456789</partnerKey>
+    <!-- 微信token -->
+    <token>公众号Token</token>
+    <accessToken>123456789</accessToken>
+    <!-- 微信aesKey -->
+    <aesKey>公众号EncodingAESKey</aesKey>
+    <oauth2redirectUri></oauth2redirectUri>
+</xml>
